@@ -1,4 +1,6 @@
-# Kydor
+<div align="center">
+  <h1>KYDOR</h1>
+</div>
 
-## Workshops PDF Generator
-Repo: [Click](https://github.com/kydor-net/workshop-pdfs)
+## Repositories
+* [PDF Generator](https://github.com/kydor-net/pdf-generator)
